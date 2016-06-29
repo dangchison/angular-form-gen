@@ -7,10 +7,6 @@
   ],
   "license": "MIT",
   "homepage": "http://angular-form-gen.nullest.com",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/McNull/angular-form-gen.git"
-  },
   "keywords": [
     "angularjs",
     "angular",
